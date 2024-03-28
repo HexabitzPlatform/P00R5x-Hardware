@@ -1,11 +1,11 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2019-05-21T23:03:10Z",
+        "CreationDate": "2024-03-28T00:14:25Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
-            "Version": "9.3.0"
+            "Version": "9.6.1"
         },
         "Part": "Single"
     },
@@ -15,7 +15,7 @@
         "Name": {
             "ProjectId": "P00R50"
         },
-        "Owner": "Asaad Kaadan <asaad@hexabitz.com>",
+        "Owner": "Ibrahim Zaeiter <zeater18@gmail.com>",
         "Size": {
             "X": 28.02,
             "Y": 26.65
